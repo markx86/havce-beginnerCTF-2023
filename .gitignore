@@ -1,0 +1,6 @@
+*.lock*
+*.bin
+*.o
+*.gpr
+*.rep/
+__pycache__/
